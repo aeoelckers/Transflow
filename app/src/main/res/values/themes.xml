@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Transflow" parent="Theme.Material3.Dark.NoActionBar">
+    </style>
+    <style name="Theme.Transflow" parent="Base.Theme.Transflow" />
+</resources>
